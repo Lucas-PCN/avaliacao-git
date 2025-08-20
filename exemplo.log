@@ -1,0 +1,29 @@
+commit f793537330ba3f878b38e4c94debdd9a1d9581dc
+Author: Lucas Pereira Castanheira Nascimento <lucaspereira.cn@hotmail.com>
+Date:   Wed Aug 20 15:22:26 2025 -0300
+
+    Fix: altera o arquivo index.html inserindo o meu nome na tag title
+
+commit 3502d39f03e8e8eba84f3ecb59388aa1e088f8c5
+Author: Lucas Pereira Castanheira Nascimento <lucaspereira.cn@hotmail.com>
+Date:   Wed Aug 20 15:18:31 2025 -0300
+
+    Fix: comenta as funções presentes no arquivo script.js e adiciona uma função que utiliza uma estrutura de repetição for
+
+commit 9857f70581c9712bf72c1f15e27344debdc8c431
+Author: Lucas Pereira Castanheira Nascimento <lucaspereira.cn@hotmail.com>
+Date:   Wed Aug 20 15:07:47 2025 -0300
+
+    Fix: altera cor do plano de fundo do contêiner principal
+
+commit fdd33ca6882ff982c70729bafce5acaf8923acff
+Author: Lucas Pereira Castanheira Nascimento <lucaspereira.cn@hotmail.com>
+Date:   Wed Aug 20 15:03:23 2025 -0300
+
+    Feat: adiciona o respectivo conteúdo em cada um  dos arquivos
+
+commit 54837aad4343ef7a008f430334c8b63f91c3eaf3
+Author: Lucas Pereira Castanheira Nascimento <lucaspereira.cn@hotmail.com>
+Date:   Wed Aug 20 14:59:57 2025 -0300
+
+    Inicia atividade e envia para o repositório os três arquivos em branco e suas respectivas pastas
